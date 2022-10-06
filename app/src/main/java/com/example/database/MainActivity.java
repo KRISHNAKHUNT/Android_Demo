@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     public void screen(View view) {
         Intent i = new Intent(MainActivity.this, MainActivity3.class);
         startActivity(i);
+        //zxcvbnm
     }
 }
